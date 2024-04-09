@@ -1,0 +1,1052 @@
+{
+  "home": [
+    {
+      "items": [
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "02:19",
+          "posX": 52.47,
+          "posY": 6.86,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "03:43",
+          "posX": 56.4,
+          "posY": 12.7,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Daniil Fesenko",
+          "time": "04:19",
+          "posX": 50.63,
+          "posY": 13.1,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "05:15",
+          "posX": 49.03,
+          "posY": 18.14,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Dmitri Khlopikov",
+          "time": "10:43",
+          "posX": 43.2,
+          "posY": 12.61,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "12:51",
+          "posX": 54.99,
+          "posY": 12.43,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Egor Yadykin",
+          "time": "12:58",
+          "posX": 53.02,
+          "posY": 16.55,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Zakharov",
+          "time": "13:33",
+          "posX": 43.02,
+          "posY": 27.57,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "14:23",
+          "posX": 54.19,
+          "posY": 14.42,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "14:44",
+          "posX": 50.02,
+          "posY": 19.2,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Denis Malov",
+          "time": "16:25",
+          "posX": 53.14,
+          "posY": 24.38,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Dmitri Vlasenko",
+          "time": "17:34",
+          "posX": 43.2,
+          "posY": 11.02,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "18:28",
+          "posX": 53.21,
+          "posY": 6.86,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "18:40",
+          "posX": 51.55,
+          "posY": 6.19,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Dmitri Vlasenko",
+          "time": "20:40",
+          "posX": 56.23,
+          "posY": 11.76,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "21:43",
+          "posX": 48.98,
+          "posY": 6.04,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Egor Yadykin",
+          "time": "21:45",
+          "posX": 55.5,
+          "posY": 13.19,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Alexander Filatyev",
+          "time": "23:35",
+          "posX": 48.62,
+          "posY": 5.93,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Dmitri Vlasenko",
+          "time": "24:43",
+          "posX": 46.32,
+          "posY": 21.87,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "25:45",
+          "posX": 46.78,
+          "posY": 15.49,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Denis Malov",
+          "time": "28:21",
+          "posX": 52.29,
+          "posY": 22.2,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "31:23",
+          "posX": 46.6,
+          "posY": 5.16,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "31:44",
+          "posX": 39.81,
+          "posY": 27.91,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Denis Malov",
+          "time": "32:00",
+          "posX": 55.5,
+          "posY": 14.18,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "32:59",
+          "posX": 45.86,
+          "posY": 3.74,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "35:21",
+          "posX": 49.63,
+          "posY": 6.7,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "35:33",
+          "posX": 48.25,
+          "posY": 7.91,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "35:40",
+          "posX": 52.19,
+          "posY": 14.95,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "David Fatkullin",
+          "time": "37:00",
+          "posX": 53.85,
+          "posY": 15.6,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "38:09",
+          "posX": 45.68,
+          "posY": 16.15,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Alexander Filatyev",
+          "time": "39:11",
+          "posX": 53.57,
+          "posY": 18.57,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Andrei Perfilyev",
+          "time": "40:09",
+          "posX": 45.13,
+          "posY": 21.76,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Alexander Filatyev",
+          "time": "42:20",
+          "posX": 45.14,
+          "posY": 14.62,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "43:09",
+          "posX": 50.83,
+          "posY": 11.76,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "43:15",
+          "posX": 47.93,
+          "posY": 28.57,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "44:58",
+          "posX": 52.84,
+          "posY": 12.64,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "45:46",
+          "posX": 46.36,
+          "posY": 24.29,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "46:24",
+          "posX": 43.01,
+          "posY": 5.16,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Egor Yadykin",
+          "time": "46:50",
+          "posX": 52.06,
+          "posY": 13.41,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "47:46",
+          "posX": 46.36,
+          "posY": 9.67,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "David Fatkullin",
+          "time": "48:09",
+          "posX": 48.71,
+          "posY": 26.92,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Danil Syslov",
+          "time": "50:10",
+          "posX": 46.7,
+          "posY": 2.97,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "55:47",
+          "posX": 50.5,
+          "posY": 21.54,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "56:39",
+          "posX": 50.72,
+          "posY": 10.11,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "56:47",
+          "posX": 45.36,
+          "posY": 12.64,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "59:22",
+          "posX": 54.74,
+          "posY": 20.55,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "59:52",
+          "posX": 44.8,
+          "posY": 16.7,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "02:11",
+          "posX": 53.51,
+          "posY": 16.55,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Daniil Fesenko",
+          "time": "05:04",
+          "posX": 44.8,
+          "posY": 14.6,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Eduard Golodnyuk",
+          "time": "05:17",
+          "posX": 50.69,
+          "posY": 13.36,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "09:57",
+          "posX": 50.2,
+          "posY": 14.69,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "11:52",
+          "posX": 45.66,
+          "posY": 21.33,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "14:36",
+          "posX": 47.44,
+          "posY": 16.86,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "18:05",
+          "posX": 53.51,
+          "posY": 10.8,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Dmitri Vlasenko",
+          "time": "19:35",
+          "posX": 46.64,
+          "posY": 16.06,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "19:42",
+          "posX": 41.61,
+          "posY": 15.09,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "19:50",
+          "posX": 41.73,
+          "posY": 16.37,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "21:39",
+          "posX": 41.19,
+          "posY": 17.8,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Andrei Perfilyev",
+          "time": "21:49",
+          "posX": 46.23,
+          "posY": 18.13,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Andrey Korzin",
+          "time": "25:33",
+          "posX": 42.01,
+          "posY": 2.86,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Dmitri Khlopikov",
+          "time": "41:48",
+          "posX": 46.92,
+          "posY": 20,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "David Fatkullin",
+          "time": "43:23",
+          "posX": 50.5,
+          "posY": 6.26,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "44:50",
+          "posX": 49.05,
+          "posY": 5.16,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "47:35",
+          "posX": 51.17,
+          "posY": 13.63,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Andrey Korzin",
+          "time": "52:59",
+          "posX": 41.23,
+          "posY": 27.03,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Egor Yadykin",
+          "time": "02:26",
+          "posX": 49.83,
+          "posY": 10.13,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Andrei Perfilyev",
+          "time": "12:43",
+          "posX": 44.92,
+          "posY": 16.06,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "14:27",
+          "posX": 47.74,
+          "posY": 21.02,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "21:20",
+          "posX": 48.25,
+          "posY": 7.58,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "25:47",
+          "posX": 53.11,
+          "posY": 9.78,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artem Svishchev",
+          "time": "31:07",
+          "posX": 47.24,
+          "posY": 4.95,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "31:29",
+          "posX": 53.11,
+          "posY": 22.75,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "36:05",
+          "posX": 49.44,
+          "posY": 20.44,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "36:39",
+          "posX": 53.2,
+          "posY": 22.31,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "36:46",
+          "posX": 43.85,
+          "posY": 16.48,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "36:50",
+          "posX": 47.88,
+          "posY": 19.23,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "37:24",
+          "posX": 40.27,
+          "posY": 16.48,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Alexander Filatyev",
+          "time": "37:46",
+          "posX": 44.95,
+          "posY": 16.92,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Anton Kazachyok",
+          "time": "52:47",
+          "posX": 41.78,
+          "posY": 7.8,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "53:38",
+          "posX": 46.14,
+          "posY": 17.8,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Egor Yadykin",
+          "time": "54:32",
+          "posX": 44.13,
+          "posY": 21.43,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Andrei Perfilyev",
+          "time": "57:16",
+          "posX": 45.25,
+          "posY": 6.37,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Andrey Korzin",
+          "time": "04:06",
+          "posX": 49.71,
+          "posY": 18.68,
+          "type": "goal",
+          "name": "Гол"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "22:26",
+          "posX": 44.67,
+          "posY": 15.38,
+          "type": "goal",
+          "name": "Гол"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "24:34",
+          "posX": 48.89,
+          "posY": 16.59,
+          "type": "goal",
+          "name": "Гол"
+        },
+        {
+          "player": "Nikolay Hvorov",
+          "time": "55:35",
+          "posX": 49.26,
+          "posY": 18.68,
+          "type": "goal",
+          "name": "Гол"
+        }
+      ]
+    },
+    {}
+  ],
+  "away": [
+    {
+      "items": [
+        {
+          "player": "Alexander Lazarev",
+          "time": "10:03",
+          "posX": 33.63,
+          "posY": 3.01,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Danila Ganin",
+          "time": "16:14",
+          "posX": 53.57,
+          "posY": 23.01,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Alexei Shanaurin",
+          "time": "16:53",
+          "posX": 47.25,
+          "posY": 6.11,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Danila Ganin",
+          "time": "27:45",
+          "posX": 49.99,
+          "posY": 21.76,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Ilya Nechitailo",
+          "time": "29:07",
+          "posX": 42.84,
+          "posY": 21.65,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Alexander Lazarev",
+          "time": "29:33",
+          "posX": 50.91,
+          "posY": 21.87,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Ilya Ilin",
+          "time": "39:59",
+          "posX": 46.14,
+          "posY": 24.62,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Artyom Nagibin",
+          "time": "40:47",
+          "posX": 42.68,
+          "posY": 23.85,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        },
+        {
+          "player": "Ilya Ilin",
+          "time": "47:00",
+          "posX": 54.41,
+          "posY": 17.69,
+          "type": "shotOnGoal",
+          "name": "Бросок в створ"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Yevgeni Gribanov",
+          "time": "01:16",
+          "posX": 44.92,
+          "posY": 27.92,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Kirill Antonov",
+          "time": "02:02",
+          "posX": 50.81,
+          "posY": 20.18,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Ilya Nechitailo",
+          "time": "04:35",
+          "posX": 42.65,
+          "posY": 28.85,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Kirill Antonov",
+          "time": "15:09",
+          "posX": 47.56,
+          "posY": 22.26,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Ilya Nechitailo",
+          "time": "20:25",
+          "posX": 49.72,
+          "posY": 10.44,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Danila Ganin",
+          "time": "29:43",
+          "posX": 47.33,
+          "posY": 7.58,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Artem Rudenko",
+          "time": "30:00",
+          "posX": 44.21,
+          "posY": 16.37,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Danila Ganin",
+          "time": "39:57",
+          "posX": 54.76,
+          "posY": 21.21,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Alexander Lazarev",
+          "time": "40:40",
+          "posX": 48.15,
+          "posY": 10.11,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Artem Rudenko",
+          "time": "43:59",
+          "posX": 50.61,
+          "posY": 26.7,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Kirill Abramov",
+          "time": "45:08",
+          "posX": 52.84,
+          "posY": 17.8,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Ilya Ilin",
+          "time": "55:00",
+          "posX": 42.79,
+          "posY": 6.48,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Ivan Meledin",
+          "time": "55:03",
+          "posX": 53.63,
+          "posY": 28.35,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        },
+        {
+          "player": "Ilya Nechitailo",
+          "time": "56:03",
+          "posX": 44.8,
+          "posY": 17.03,
+          "type": "shotWide",
+          "name": "Бросок мимо"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Vyacheslav Malov",
+          "time": "00:22",
+          "posX": 49.83,
+          "posY": 23.01,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Denis Malov",
+          "time": "04:39",
+          "posX": 39.64,
+          "posY": 4.73,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "13:54",
+          "posX": 44.92,
+          "posY": 29.29,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "14:00",
+          "posX": 39.4,
+          "posY": 28.85,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "24:23",
+          "posX": 38.8,
+          "posY": 28.46,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Pavel Leuka",
+          "time": "27:24",
+          "posX": 45.96,
+          "posY": 11.65,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Dmitri Khlopikov",
+          "time": "29:21",
+          "posX": 51.37,
+          "posY": 21.76,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Vyacheslav Malov",
+          "time": "30:32",
+          "posX": 42.56,
+          "posY": 23.74,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "32:33",
+          "posX": 53.57,
+          "posY": 6.37,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "37:11",
+          "posX": 42.38,
+          "posY": 20.44,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Artyom Kulikovsky",
+          "time": "44:15",
+          "posX": 40.78,
+          "posY": 21.32,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikolay Zakharov",
+          "time": "44:23",
+          "posX": 48.6,
+          "posY": 18.13,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikolay Zakharov",
+          "time": "44:39",
+          "posX": 47.03,
+          "posY": 20.11,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        },
+        {
+          "player": "Nikita Kholodilin",
+          "time": "58:33",
+          "posX": 41.23,
+          "posY": 9.89,
+          "type": "blockedShot",
+          "name": "Заблокированный бросок"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "player": "Artyom Nagibin",
+          "time": "06:42",
+          "posX": 46.39,
+          "posY": 14.03,
+          "type": "goal",
+          "name": "Гол"
+        },
+        {
+          "player": "Alexander Lazarev",
+          "time": "30:02",
+          "posX": 55.5,
+          "posY": 17.03,
+          "type": "goal",
+          "name": "Гол"
+        },
+        {
+          "player": "Alexander Lazarev",
+          "time": "32:10",
+          "posX": 52.38,
+          "posY": 19.23,
+          "type": "goal",
+          "name": "Гол"
+        }
+      ]
+    },
+    {}
+  ],
+  "weAtHome": true,
+  "winByBuls": false,
+  "winByOT": false,
+  "showUnsuccessfullShotAttempts": false
+}

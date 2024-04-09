@@ -1,0 +1,1 @@
+const kDebounceTime = Duration(microseconds: 100);

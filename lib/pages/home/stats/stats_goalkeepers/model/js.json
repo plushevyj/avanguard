@@ -1,0 +1,103 @@
+{
+  "gatesMap": {
+    "topLeft": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "topMid": {
+      "value": "1/1",
+      "percentValue": 100
+    },
+    "topRight": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "midLeft": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "center": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "midRight": {
+      "value": "3/4",
+      "percentValue": 75
+    },
+    "botLeft": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "botMid": {
+      "value": "1/1",
+      "percentValue": 100
+    },
+    "botRight": {
+      "value": "6/6",
+      "percentValue": 100
+    }
+  },
+  "topStats": [
+    {
+      "name": "Броски в створ",
+      "value": "27"
+    },
+    {
+      "name": "Пропущенные голы",
+      "value": "1"
+    },
+    {
+      "name": "% сейвов",
+      "value": "96.3"
+    },
+    {
+      "name": "% сейвов из опасной зоны",
+      "value": "100"
+    },
+    {
+      "name": "% сейвов из неопасной зоны",
+      "value": "92.86"
+    },
+    {
+      "name": "% точности передач",
+      "value": "66.67"
+    },
+    {
+      "name": "Средний угол отскока",
+      "value": "52.87°"
+    },
+    {
+      "name": "Средняя дистанция отскока",
+      "value": "4.74м"
+    }
+  ],
+  "shotsByZones": {
+    "leftMidZone": {
+      "value": "1/1",
+      "percentValue": 100
+    },
+    "midZone": {
+      "value": "13/13",
+      "percentValue": 100
+    },
+    "rightMidZone": {
+      "value": "5/5",
+      "percentValue": 100
+    },
+    "leftBotZone": {
+      "value": "3/3",
+      "percentValue": 100
+    },
+    "midBotZone": {
+      "value": "2/2",
+      "percentValue": 100
+    },
+    "rightBotZone": {
+      "value": "2/3",
+      "percentValue": 66.67
+    }
+  },
+  "weAtHome": false,
+  "winByBuls": false,
+  "winByOT": false
+}
